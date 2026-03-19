@@ -1,9 +1,8 @@
-## Hi there 👋
 
-<!--
-**Developer1968Mx/Developer1968Mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi!... I'm Ricardo 👋
 
-Here are some ideas to get you started:
+I'm a old school developer (Yes, I know, Old-Fashion people)... I love programming. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Developer1968Mx&theme=omni&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Support
+
+For support and information, email: rguerrerol@hotmail.com, innovasolutions.it.mx@gmail.com.
